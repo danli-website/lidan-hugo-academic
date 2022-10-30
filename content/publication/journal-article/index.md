@@ -1,68 +1,57 @@
 ---
-title: "An example journal article"
-authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags:
-- Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
+abstract: China has achieved a dramatic development in scientific research over
+  the last few decades. However, just like many other countries, it has also
+  seen a surge of scientific misconducts. With its expansion of international
+  publications, retractions due to suspected research misconduct are also on the
+  rise. A transcultural case study was conducted by investigating the perception
+  of research misbehaviors by Chinese researchers compared to their Belgian
+  Flemish colleagues. The study was designed to find out variation in research
+  practices in different countries and to see how research was shaped and
+  influenced by cultural contexts. An online questionnaire was sent to 3,236
+  researchers by e-mails and it received a response rate of 13.09%. They were
+  asked to score 32 research misbehaviors on a 5-point scale. The findings
+  suggested that compared to Flemish respondents, the Chinese had a
+  significantly higher acceptance toward most research misbehaviors. To be more
+  specific, the Chinese respondents felt less unacceptable toward behaviors
+  violating such values as honesty, fairness, and verifiability than the
+  Flemish, while their perceptions of behaviors that violated such values as
+  responsibility, objectivity, and truth were not different compared to the
+  Flemish. This case study implies that the Chinese research community is in an
+  urgent need of training in responsible conduct of research and strong as well
+  as sound guidelines for responsible research practices in place.
+slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Gustaaf Cornelis
+author_notes: []
+publication: "*Accountability in Research, 25(6)*"
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: How do researchers perceive research misbehaviors? A transcultural case
+  study of Chinese and Flemish researchers
+doi: https://doi.org/10.1080/08989621.2018.1507824
+featured: false
+tags:
+  - Source Themes
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
