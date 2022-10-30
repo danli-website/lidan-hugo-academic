@@ -1,31 +1,23 @@
 ---
 title: Li Dan 李丹
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Researcher
+avatar_filename: lidan-profile.jpeg
+bio: My research interests include research misconduct, comparative studies,
+  research integrity, and scientific values.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Research misconduct
+  - Comparative studies
+  - Research integrity
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=TCEtK1cAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://be.linkedin.com/in/dan-li-299b7120a
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -46,9 +38,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Li Dan is...
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
