@@ -1,7 +1,7 @@
 ---
 title: Test
 publication_types:
-  - "1"
+  - "2"
 authors:
   - admin
 abstract: Test
