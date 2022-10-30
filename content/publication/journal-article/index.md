@@ -1,4 +1,12 @@
 ---
+title: How do researchers perceive research misbehaviors? A transcultural case
+  study of Chinese and Flemish researchers
+publication_types:
+  - "2"
+authors:
+  - admin
+  - Gustaaf Cornelis
+publication_short: ""
 abstract: China has achieved a dramatic development in scientific research over
   the last few decades. However, just like many other countries, it has also
   seen a surge of scientific misconducts. With its expansion of international
@@ -19,35 +27,28 @@ abstract: China has achieved a dramatic development in scientific research over
   Flemish. This case study implies that the Chinese research community is in an
   urgent need of training in responsible conduct of research and strong as well
   as sound guidelines for responsible research practices in place.
-slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-publication_types:
-  - "2"
-authors:
-  - admin
-  - Gustaaf Cornelis
-author_notes: []
-publication: "*Accountability in Research, 25*(6)"
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: How do researchers perceive research misbehaviors? A transcultural case
-  study of Chinese and Flemish researchers
-doi: https://doi.org/10.1080/08989621.2018.1507824
+draft: false
 featured: false
 tags:
   - Source Themes
-projects: []
+slides: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: https://doi.org/10.1080/08989621.2018.1507824
+publication: "*Accountability in Research, 25*(6)"
+projects: []
 date: 2020-08-10T12:28:52.658Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
