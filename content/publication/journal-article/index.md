@@ -29,8 +29,7 @@ abstract: China has achieved a dramatic development in scientific research over
   as sound guidelines for responsible research practices in place.
 draft: false
 featured: false
-tags:
-  - Source Themes
+tags: []
 slides: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 image:
