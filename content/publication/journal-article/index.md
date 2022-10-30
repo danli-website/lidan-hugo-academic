@@ -28,9 +28,7 @@ authors:
   - Gustaaf Cornelis
 author_notes: []
 publication: "*Accountability in Research, 25*(6)"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -44,10 +42,10 @@ tags:
   - Source Themes
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00Z
+date: 2022-10-30T13:27:34.626Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
