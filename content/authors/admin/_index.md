@@ -23,7 +23,7 @@ education:
   courses:
     - course: Doctor of Philosophy and Moral Science
       institution: Vrije Universiteit Brussel
-      year: 2020
+      year: 2021
     - course: Master's Degree
       institution: China University of Political Science and Law
       year: 2013
