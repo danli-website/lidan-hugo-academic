@@ -1,7 +1,7 @@
 ---
 title: Li Dan 李丹
 role: Researcher
-avatar_filename: lidan-profile.jpeg
+avatar_filename: lidan-profile.png
 bio: My research interests include research misconduct, comparative studies,
   research integrity, and scientific values.
 interests:
