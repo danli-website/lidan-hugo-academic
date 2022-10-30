@@ -18,9 +18,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://be.linkedin.com/in/dan-li-299b7120a
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
     - course: Doctor of Philosophy and Moral Science
