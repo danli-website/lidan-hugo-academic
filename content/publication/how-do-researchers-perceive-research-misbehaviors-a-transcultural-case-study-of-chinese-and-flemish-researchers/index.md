@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Gustaaf Cornelis
-doi: https://doi.org/10.1080/08989621.2018.1507824
+doi: 10.1080/08989621.2018.1507824
 publication: Accountability in Research 25(6)
 abstract: China has achieved a dramatic development in scientific research over
   the last few decades. However, just like many other countries, it has also
