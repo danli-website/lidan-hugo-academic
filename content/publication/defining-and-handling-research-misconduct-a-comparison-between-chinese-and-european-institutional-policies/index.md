@@ -2,7 +2,6 @@
 title: "Defining and Handling Research Misconduct: A Comparison Between Chinese
   and European Institutional Policies"
 publication_types:
-  - "0"
   - "2"
 authors:
   - admin
